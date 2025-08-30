@@ -1,0 +1,3 @@
+this is yellow mode.
+
+I am writting in yellow.txt
