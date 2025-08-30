@@ -3,7 +3,7 @@ this is first line in first.txt file.
 
 Second line.
 
-Writing in red mode.
+Writing in purple mode.
 
 
 writing from VS code editor.
