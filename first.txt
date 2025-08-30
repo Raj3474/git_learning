@@ -4,3 +4,6 @@ this is first line in first.txt file.
 Second line.
 
 Writing in red mode.
+
+
+writing from VS code editor.
