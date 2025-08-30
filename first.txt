@@ -2,3 +2,5 @@ this is first line in first.txt file.
 
 
 Second line.
+
+Writing in red mode.
